@@ -1,0 +1,10 @@
+INSERT INTO books (title, author, description, price, category, image_url) 
+VALUES 
+('The Great Gatsby', 'F. Scott Fitzgerald', 'A novel set in the 1920s that explores themes of wealth, love, and the American Dream.', 10.99, 'Fiction', 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471173936/the-great-gatsby-9781471173936_hr.jpg'),
+('To Kill a Mockingbird', 'Harper Lee', 'A novel about racial injustice in the American South.', 12.99, 'Fiction', 'https://th.bing.com/th/id/OIP.K20Bo68BfZSwAqBd1OPh5gHaKf?rs=1&pid=ImgDetMain'),
+('1984', 'George Orwell', 'A dystopian novel that critiques totalitarianism and extreme political ideologies.', 9.99, 'Dystopian', 'https://th.bing.com/th/id/OIP.wX7qcPG_m1aRsg5_cBhC9QHaLZ?rs=1&pid=ImgDetMain'),
+('The Catcher in the Rye', 'J.D. Salinger', 'The story of Holden Caulfield, a troubled teenager who is disillusioned with society.', 11.99, 'Fiction', 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg'),
+('Brave New World', 'Aldous Huxley', 'A dystopian novel set in a futuristic society where people are conditioned to be happy in a controlled environment.', 13.50, 'Science Fiction', 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg'),
+('Sapiens: A Brief History of Humankind', 'Yuval Noah Harari', 'A non-fiction book that explores the history and evolution of human beings.', 15.00, 'Non-Fiction', 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg'),
+('Educated', 'Tara Westover', 'A memoir about a woman who escapes a survivalist family and seeks education.', 14.99, 'Biography', 'https://th.bing.com/th/id/OIP.dlE2Qzqjld--q34_4kDigAHaLX?rs=1&pid=ImgDetMain'),
+('The Da Vinci Code', 'Dan Brown', 'A thriller that follows a professor and a cryptologist as they unravel a conspiracy involving the Catholic Church.', 14.00, 'Thriller', 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597798677i/55019161.jpg');
