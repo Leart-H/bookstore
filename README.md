@@ -2,6 +2,6 @@
  final project
 
 
-admin login
+admin login:
 leart@gmail.com
 password: 1234
